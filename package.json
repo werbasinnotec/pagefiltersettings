@@ -1,0 +1,33 @@
+{
+  "name": "pagefiltersettings",
+  "version": "0.0.2",
+  "description": "easy NPM Modul to GET and SAVE Words from a Sitefilter",
+  "contributors": [
+    {
+      "name": "Joe Herwig",
+      "email": "joachim.herwig@werbas-ag.com"
+    },
+    {
+      "name": "Martin Wiesmüller",
+      "email": "martin.wiesmueller@werbas-ag.com"
+    }
+  ],
+  "main": "lib/app.js",
+  "dependencies": {
+    "localStorage": "1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:werbasinnotec/pagefiltersettings.git"
+  },
+  "keywords": [
+    "filterphrase",
+    "pagefiltersettings"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "assertthat": "0.6.0",
+    "grunt": "0.4.5",
+    "tourism": "0.20.1"
+  }
+}
