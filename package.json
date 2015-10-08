@@ -1,6 +1,6 @@
 {
   "name": "pagefiltersettings",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "easy NPM Modul to GET and SAVE Words from a Sitefilter",
   "contributors": [
     {
